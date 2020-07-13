@@ -1,2 +1,2 @@
 # test-rest-api
-Test REST API for writting automated API tests
+Test task for QA automated API tests
